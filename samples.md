@@ -1,6 +1,8 @@
 # Introduction
 
 My name's Francis Eze and I'm a software engineer. I've been working with Python for 2 year and writing for less than 6 months out of those two.
+I have a passion for writing and I'm looking to improve my writing skills. I'm also looking to get into technical writing and I believe this is a great opportunity to showcase my writing skills. I'm looking to write articles on software development, software engineering, and technology in general.
+My coding skills are mostly in Python, but I'm also familiar with JavaScript, HTML, and CSS. I'm also familiar with Django, Flask, and React. I'm looking to write articles on these technologies and more.
 This is a collection of my writing samples. I hope you find them interesting.
 
 ## Table of Contents
